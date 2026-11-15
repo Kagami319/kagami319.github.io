@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<!-- Adapted from Jon Barron's public academic website: https://github.com/jonbarron/jonbarron.github.io -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Shihao Wang">
+    <meta name="description" content="Shihao Wang, graduate student in mathematics at the University of Wisconsin–Madison. Publications, research, and Dota 2.">
+    <meta name="theme-color" content="#ffffff">
+    <title>Shihao Wang</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="./stylesheet.css">
+    <link rel="stylesheet" href="./styles.css">
+    <script type="module" src="./app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <main class="page" id="main">
+      <header class="bio" id="about">
+        <div class="bio-text">
+          <h1 class="name">Shihao Wang</h1>
+          <p class="subtitle">Mathematics · University of Wisconsin–Madison</p>
+          <p>
+            I am a graduate student in the <a href="https://www.math.wisc.edu/" target="_blank" rel="noopener noreferrer">Department of Mathematics</a>
+            at the <a href="https://www.wisc.edu/" target="_blank" rel="noopener noreferrer">University of Wisconsin–Madison</a>.
+            My academic background also includes <a href="https://en.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Shanghai Jiao Tong University</a>.
+          </p>
+          <p id="research-summary">My work explores scientific machine learning, mathematical approaches to model merging, and quantum-inspired optical sensing.</p>
+          <p class="email-line">Email: <a href="mailto:swang2232@math.wisc.edu">swang2232@math.wisc.edu</a></p>
+          <nav class="bio-links" aria-label="Page navigation">
+            <a href="#news">News</a><span aria-hidden="true"> / </span>
+            <a href="#research">Research</a><span aria-hidden="true"> / </span>
+            <a href="#esports">E-sports</a>
+          </nav>
+        </div>
+      </header>
+
+      <section id="news" aria-labelledby="news-title">
+        <div class="section-header">
+          <h2 id="news-title">News</h2>
+          <div id="news-items"><p class="empty-news">Updates coming soon.</p></div>
+        </div>
+      </section>
+
+      <section id="research" aria-labelledby="research-title">
+        <div class="section-header">
+          <h2 id="research-title">Research</h2>
+          <div class="publication-toolbar">
+            <div class="filter-group" role="group" aria-label="Filter research by topic">
+              <button class="filter active" type="button" data-topic="all" aria-pressed="true">All</button><span aria-hidden="true"> / </span>
+              <button class="filter" type="button" data-topic="quantum" aria-pressed="false">Quantum</button><span aria-hidden="true"> / </span>
+              <button class="filter" type="button" data-topic="pde" aria-pressed="false">PDE</button><span aria-hidden="true"> / </span>
+              <button class="filter" type="button" data-topic="others" aria-pressed="false">Others</button>
+            </div>
+            <span id="publication-total" class="paper-count"></span>
+          </div>
+        </div>
+        <div id="publication-list" aria-live="polite"><p class="loading-note">Loading research…</p></div>
+        <noscript><p class="section-header">Please enable JavaScript to view the research list.</p></noscript>
+      </section>
+
+      <section class="esports-section" id="esports" aria-labelledby="esports-title">
+        <div class="section-header">
+          <h2 id="esports-title">E-sports</h2>
+          <div class="esports-tabs" role="tablist" aria-label="E-sports sections">
+            <button class="esports-tab active" id="dota-tab" type="button" role="tab" aria-selected="true" aria-controls="esport-dota" data-esport="dota">Dota2</button><span aria-hidden="true"> / </span>
+            <button class="esports-tab" id="general-tab" type="button" role="tab" aria-selected="false" aria-controls="esport-general" tabindex="-1" data-esport="general">General</button>
+          </div>
+          <div id="esport-dota" role="tabpanel" aria-labelledby="dota-tab">
+          <p class="dota-intro">I started playing DotA on Warcraft III in 2012 and have since logged around 9,000 hours in Dota 2 across my main and alternate accounts. My competitive experience includes university teams and collegiate competitions. I primarily play offlane, with mid/safelane as my secondary roles.</p>
+          <h3 class="subsection-title">Competitive Experience</h3>
+          <div class="experience-table-wrap" role="region" aria-label="Competitive experience" tabindex="0">
+            <table class="experience-table">
+              <caption class="sr-only">Dota 2 university teams and collegiate competitions</caption>
+              <thead><tr><th scope="col">Years</th><th scope="col">University</th><th scope="col">Team &amp; Competition</th><th scope="col">ID</th><th scope="col">Role</th></tr></thead>
+              <tbody>
+                <tr><td>2018–2019</td><td>Shanghai Jiao Tong University</td><td>Varsity Team @ Various tournaments</td><td>Setsuna</td><td>Supp / Hard supp</td></tr>
+                <tr><td>2020–2021</td><td>Shanghai Jiao Tong University</td><td>SJTU.FXB @ ESS II</td><td>Setsuna</td><td>Mid / Safe</td></tr>
+                <tr><td>2021–2022</td><td>University of Wisconsin-Madison</td><td>JV-AGI @ CSL Open League</td><td>Kagami</td><td>Mid / Off</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <h3 class="subsection-title">MMR Milestones</h3>
+          <dl class="timeline">
+            <div><dt><time datetime="2020-10">Oct 2020</time></dt><dd>Reached <strong>5,000 MMR</strong>.</dd></div>
+            <div><dt><time datetime="2023-09">Sep 2023</time></dt><dd>Reached <strong>5,630 MMR</strong> (Immortal).</dd></div>
+            <div><dt><time datetime="2024-02">Feb 2024</time></dt><dd>Reached <strong>6,000 MMR</strong>.</dd></div>
+            <div><dt><time datetime="2024-06">Jun 2024</time></dt><dd>Reached <strong>7,000 MMR</strong>.</dd></div>
+            <div><dt><time datetime="2025-06">Jun 2025</time></dt><dd>Reached <strong>7,500 MMR</strong>.</dd></div>
+            <div><dt><time datetime="2026-05">May 2026</time></dt><dd>Reached <strong>8,000 MMR</strong>, ranking in the <strong>top 800</strong> on the US East server.</dd></div>
+          </dl>
+          <p class="mmr-status">Adjusted to <strong>6337 MMR</strong> after <a href="https://www.dota2.com/summerscrub2026" target="_blank" rel="noopener noreferrer">Valve's MMR rescaling</a> (<time datetime="2026-08">August 2026</time>). Leaderboard position unchanged.</p>
+          <h3 class="subsection-title">Main Account Statistics</h3>
+          <div class="player-strip">
+            <div class="player-avatar" id="player-avatar" aria-hidden="true"></div>
+            <div class="player-summary"><strong id="player-name">KAGAMI</strong><div class="profile-links"><a href="https://www.opendota.com/players/889388443" target="_blank" rel="noopener noreferrer">OpenDota</a><span aria-hidden="true"> / </span><a href="https://stratz.com/players/889388443" target="_blank" rel="noopener noreferrer">STRATZ</a></div></div>
+            <div class="rank-medal" id="rank-medal" role="img" aria-label="Immortal, leaderboard rank 937"><img id="rank-medal-image" src="https://www.opendota.com/assets/images/dota2/rank_icons/rank_icon_8.png" alt=""><span class="rank-number" id="rank-number" aria-hidden="true">937</span></div>
+          </div>
+          <dl class="dota-stats" aria-label="Dota 2 recorded statistics">
+            <div><dt>Matches</dt><dd id="stat-total">—</dd></div>
+            <div><dt>Win rate</dt><dd id="stat-rate">—</dd></div>
+            <div><dt>Wins / losses</dt><dd><span id="stat-wins">—</span> / <span id="stat-losses">—</span></dd></div>
+          </dl>
+          <p class="signature-heroes">My signature heroes are <strong>Night Stalker</strong>, <strong>Windranger</strong>, and <strong>Broodmother</strong>.</p>
+          <div class="hero-table-wrap"><table class="hero-table"><caption class="sr-only">Dota 2 hero usage on this account, ordered by matches played</caption><thead><tr><th scope="col">Hero</th><th scope="col">Matches</th><th scope="col">Win rate</th><th scope="col" aria-label="Average kills / deaths / assists">K / D / A</th></tr></thead><tbody id="hero-body"><tr><td colspan="4" class="hero-empty">Loading hero statistics…</td></tr></tbody></table></div>
+          <button id="toggle-heroes" class="text-button" type="button" aria-expanded="false" aria-controls="hero-body" hidden>Show all heroes</button>
+          <p id="hero-coverage" class="stats-note">Public matches on this account, including Turbo.</p>
+          <p id="data-state" class="data-state"><span>Loading from OpenDota</span></p>
+          <p id="stats-message" class="stats-note" role="status"></p>
+          </div>
+          <div id="esport-general" role="tabpanel" aria-labelledby="general-tab" hidden></div>
+        </div>
+      </section>
+      <footer class="site-footer"><span>© <span id="copyright-year">2026</span> Shihao Wang</span></footer>
+    </main>
+  </body>
+</html>

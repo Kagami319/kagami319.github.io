@@ -1,0 +1,112 @@
+/* Personal adaptations to the unmodified Jon Barron template in stylesheet.css. */
+*{box-sizing:border-box}
+html{scroll-padding-top:24px}
+body{margin:0;background:#fff;color:#222;line-height:1.55}
+button{font-family:inherit;font-size:inherit;cursor:pointer}
+button:focus-visible,a:focus-visible{outline:2px solid #1772d0;outline-offset:3px}
+button:disabled{cursor:wait;opacity:.6}
+[hidden]{display:none!important}
+.page{padding:20px 0 30px}
+.bio-text{width:100%;padding:16px 16px 10px}
+.name{padding-top:8px}
+.subtitle{text-align:center;color:#555;margin:5px 0 23px}
+.bio-text>p:not(.subtitle){margin:12px 0}
+.email-line{font-size:13px}
+.bio-links{margin:18px 0 0;font-size:13px}
+.bio-links>span,.profile-links>span{padding:0 7px;color:#888}
+.section-header{padding:16px}
+.empty-news{margin:9px 0 0;color:#777;font-size:13px}
+.publication-toolbar{display:flex;align-items:center;justify-content:space-between;gap:15px;margin-top:10px;font-size:13px}
+.filter-group{display:flex;flex-wrap:wrap;align-items:center;row-gap:4px}
+.filter{color:#1772d0;background:none;border:0;padding:2px 0}
+.filter:hover,.esports-tab:hover,.text-button:hover{color:#f09228}
+.filter.active{color:#222;font-weight:700}
+.filter-group>span{color:#999;padding:0 8px}
+.paper-count{font-size:12px;color:#777;white-space:nowrap}
+.papers{margin-top:0;gap:20px}
+.paper-status{font-weight:700}
+.paper{grid-template-columns:minmax(0,1fr);align-items:start}
+.paper-info{padding:0 16px}
+.papertitle{margin:0 0 2px;line-height:1.5}
+.paper-title-link{font-weight:400;white-space:nowrap}
+.paper-authors{margin:0;text-wrap:initial}
+.paper-authors span{white-space:normal}
+.contribution-note{margin:3px 0 0;font-size:12px;color:#666;font-style:italic}
+.paper-venue{margin-top:2px;font-size:13px}
+.paper-links{margin-top:3px;font-size:13px}
+.paper-links>*+*::before{content:' / ';color:#777;margin:0 5px}
+.loading-note,.empty-filter{margin:0;padding:10px 16px;color:#666}
+.esports-section{margin-top:30px}
+.esports-tabs{display:flex;align-items:center;margin:10px 0 16px;font-size:13px}
+.esports-tab{color:#1772d0;background:none;border:0;padding:2px 0}
+.esports-tab.active{color:#222;font-weight:700}
+.esports-tabs>span{color:#999;padding:0 8px}
+.dota-intro{margin:0 0 18px}
+#esport-general{min-height:30px}
+.subsection-title{font-size:15px;font-weight:700;margin:20px 0 8px}
+.subsection-title+p{margin:0 0 14px}
+.experience-table-wrap{overflow-x:auto}
+.experience-table-wrap:focus-visible{outline:2px solid #1772d0;outline-offset:3px}
+.experience-table{width:100%;min-width:650px;border-collapse:collapse;text-align:left;font-size:12px}
+.experience-table th{font-weight:400;color:#666;border-bottom:1px solid #ccc;padding:7px 12px 7px 0}
+.experience-table td{padding:9px 12px 9px 0;border-bottom:1px solid #eee;vertical-align:top}
+.experience-table th:last-child,.experience-table td:last-child{padding-right:0}
+.experience-table th:nth-child(2){width:28%}
+.experience-table th:nth-child(3){width:29%}
+.experience-table td:first-child,.experience-table td:nth-child(4),.experience-table td:last-child{white-space:nowrap}
+.timeline{margin:0;font-size:13px}
+.timeline>div{display:grid;grid-template-columns:135px minmax(0,1fr);gap:15px;margin:7px 0}
+.timeline dt{color:#666}
+.timeline dd{margin:0}
+.mmr-status{margin:16px 0 0;font-size:13px;line-height:1.6}
+.player-strip{display:flex;align-items:center;gap:10px}
+.player-avatar{width:38px;height:38px;background:#f4f4f4;flex-shrink:0}
+.player-avatar img{display:block;width:100%;height:100%;object-fit:cover}
+.rank-medal{position:relative;width:42px;height:42px;flex-shrink:0}
+.rank-medal img{display:block;width:42px;height:42px}
+.rank-number{position:absolute;left:0;right:0;bottom:3px;text-align:center;color:#ecd9c8;font-size:9px;font-weight:700;line-height:10px;text-shadow:1px 1px 2px #000,0 0 3px #000}
+.rank-medal.image-unavailable{height:auto;font-size:12px;color:#666;text-align:center}
+.rank-medal.image-unavailable .rank-number{position:static;color:inherit;text-shadow:none;font-size:12px}
+.profile-links{font-size:12px;margin-top:1px}
+.profile-links>span{padding-inline:3px}
+.dota-stats{display:flex;flex-wrap:wrap;column-gap:28px;row-gap:10px;margin:18px 0 20px;font-size:13px}
+.dota-stats>div{display:flex;align-items:center;gap:7px}
+.dota-stats dt{color:#666}
+.dota-stats dd{margin:0;font-weight:700}
+.signature-heroes{margin:0 0 14px;font-size:13px}
+.hero-table-wrap{overflow:auto}
+.hero-table{width:100%;min-width:340px;border-collapse:collapse;font-size:12px;text-align:left;font-variant-numeric:tabular-nums}
+.hero-table th{font-weight:400;color:#666;border-bottom:1px solid #ccc;padding:7px 0}
+.hero-table td{padding:8px 0;border-bottom:1px solid #eee}
+.hero-table th:first-child{width:36%}
+.hero-table th:not(:first-child),.hero-table td:not(:first-child){text-align:right;padding-left:12px}
+.hero-kda{white-space:nowrap}
+.hero-cell{display:flex;align-items:center;gap:8px;white-space:nowrap}
+.hero-portrait{width:36px;height:21px;object-fit:cover}
+.hero-fallback{width:36px;height:21px;display:inline-flex;justify-content:center;align-items:center;background:#f1f1f1;color:#888}
+.hero-empty{text-align:center;padding:20px 5px!important;white-space:normal;color:#666}
+.text-button{font-size:12px;border:0;padding:10px 0 6px;background:none;color:#1772d0}
+.data-state{font-size:11px;color:#666;margin:10px 0 0}
+.stats-note{font-size:11px;color:#777;line-height:1.5;margin:2px 0 0}
+.site-footer{margin:26px 16px 0;border-top:1px solid #eee;padding-top:10px;display:flex;justify-content:space-between;gap:15px;font-size:11px;color:#777;text-align:left}
+.sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.skip-link{position:fixed;top:-60px;left:12px;background:#fff;border:1px solid #aaa;padding:8px 12px;z-index:10}
+.skip-link:focus{top:10px}
+@media(max-width:600px){
+  .page{padding:12px 0 22px}
+  .bio-text{padding:8px 18px 10px}
+  .name{font-size:28px}
+  .subtitle{font-size:12px;margin-bottom:20px}
+  .section-header{padding:14px 18px}
+  .paper{grid-template-columns:minmax(0,1fr)}
+  .paper-info{padding:0 18px}
+  .papers{gap:22px}
+  .publication-toolbar{font-size:12px}
+  .publication-toolbar{align-items:flex-start}
+  .paper-count{font-size:11px}
+  .filter-group>span{padding-inline:6px}
+  .dota-stats{column-gap:20px;row-gap:8px}
+  .esports-section{margin-top:22px}
+  .timeline>div{grid-template-columns:108px minmax(0,1fr);gap:10px}
+  .site-footer{margin-inline:18px;flex-direction:column;gap:4px}
+}

@@ -1,0 +1,136 @@
+{
+  "verifiedAt": "2026-11-14",
+  "profile": {
+    "title": "Graduate student",
+    "department": "Department of Mathematics",
+    "email": "swang2232@math.wisc.edu",
+    "researchSummary": "My work explores scientific machine learning, mathematical approaches to model merging, and quantum-inspired optical sensing.",
+    "education": [
+      {
+        "institution": "University of Wisconsin–Madison",
+        "role": "Graduate student · Department of Mathematics",
+        "years": null,
+        "sourceUrl": "https://www.math.wisc.edu/graduate-students/"
+      }
+    ],
+    "sources": [
+      {
+        "label": "UW–Madison Mathematics directory",
+        "url": "https://www.math.wisc.edu/graduate-students/"
+      },
+      {
+        "label": "Learning Heat-Based Equations — arXiv",
+        "url": "https://arxiv.org/abs/2602.00872"
+      },
+      {
+        "label": "QAM — author affiliations",
+        "url": "https://arxiv.org/html/2609.35168v1"
+      },
+      {
+        "label": "Spatial-Mode Selection — author affiliations",
+        "url": "https://arxiv.org/html/2610.39221v1"
+      },
+      {
+        "label": "Beyond Direct Imaging — author affiliations",
+        "url": "https://arxiv.org/html/2610.39226v1"
+      }
+    ]
+  },
+  "publications": [
+    {
+      "title": "On the scale of electrons for bipolar non-isentropic Euler-Maxwell system",
+      "category": "pde",
+      "date": null,
+      "authors": ["Jiale Linghu", "Shihao Wang", "Wenfan Yi", "Liang Zhao"],
+      "contributionNote": "Authors listed alphabetically; equal contribution.",
+      "year": null,
+      "status": "preprint",
+      "venue": "Submitted",
+      "displayStatus": "Submitted",
+      "topics": ["Partial differential equations", "Euler-Maxwell system"],
+      "verificationNote": "Title and author order transcribed from the manuscript screenshot supplied by the author on November 14, 2026. The author confirmed submitted status and no arXiv posting; submission year was not supplied."
+    },
+    {
+      "title": "Global convergence in infinity-ion-mass limits for bipolar Euler-Poisson system",
+      "category": "pde",
+      "date": "2025",
+      "authors": ["Yachun Li", "Shihao Wang", "Liang Zhao"],
+      "contributionNote": "Authors listed alphabetically; equal contribution.",
+      "year": 2025,
+      "status": "published",
+      "venue": "Communications in Mathematical Sciences 23(1), 85–107",
+      "volume": 23,
+      "issue": 1,
+      "pages": "85–107",
+      "topics": ["Partial differential equations", "Euler-Poisson system"],
+      "url": "https://intlpress.com/JDetail/1868716656692301826",
+      "doi": "10.4310/CMS.241217015539",
+      "sourceUrl": "https://intlpress.com/JDetail/1868716656692301826",
+      "verificationNote": "Publication details verified from the publisher-page screenshot supplied by the author on November 14, 2026."
+    },
+    {
+      "title": "Learning Heat-Based Equations in Self-Similar Variables",
+      "category": "pde",
+      "date": "2026-02",
+      "authors": ["Shihao Wang", "Qipeng Qian", "Jingquan Wang"],
+      "year": 2026,
+      "status": "published",
+      "venue": "ICLR 2026 Workshop on AI and Partial Differential Equations",
+      "summary": "A self-similar coordinate framework for learning heat-based PDEs, improving long-time extrapolation in experiments on Navier–Stokes and viscous Burgers equations.",
+      "topics": ["Scientific machine learning", "Partial differential equations"],
+      "url": "https://arxiv.org/abs/2602.00872",
+      "pdfUrl": "https://arxiv.org/pdf/2602.00872",
+      "doi": "10.48550/arXiv.2602.00872",
+      "citation": "Shihao Wang, Qipeng Qian, and Jingquan Wang. Learning Heat-Based Equations in Self-Similar Variables. ICLR 2026 Workshop on AI and Partial Differential Equations, 2026. arXiv:2602.00872. https://doi.org/10.48550/arXiv.2602.00872",
+      "sourceUrl": "https://arxiv.org/abs/2602.00872"
+    },
+    {
+      "title": "Beyond Direct Imaging: Quantum Measurement Design for Small-Target Detection in UAV Hyperspectral Sensing",
+      "category": "quantum",
+      "date": "2026-10",
+      "authors": ["Qipeng Qian", "Jialiang Jin", "Shihao Wang", "Yuntao Qian"],
+      "year": 2026,
+      "status": "preprint",
+      "venue": "arXiv preprint · October 2026",
+      "summary": "A quantum-assisted framework combines spatial-mode measurements with spectral information to detect small mineral targets, accounting for localization, background uncertainty, and optical losses.",
+      "topics": ["Quantum sensing", "Hyperspectral imaging"],
+      "url": "https://arxiv.org/abs/2610.39226",
+      "pdfUrl": "https://arxiv.org/pdf/2610.39226",
+      "doi": "10.48550/arXiv.2610.39226",
+      "citation": "Qipeng Qian, Jialiang Jin, Shihao Wang, and Yuntao Qian. Beyond Direct Imaging: Quantum Measurement Design for Small-Target Detection in UAV Hyperspectral Sensing. arXiv preprint arXiv:2610.39226, 2026. https://doi.org/10.48550/arXiv.2610.39226",
+      "sourceUrl": "https://arxiv.org/html/2610.39226v1"
+    },
+    {
+      "title": "Spatial-Mode Selection for Local Mineral Absorption Spectroscopy",
+      "category": "quantum",
+      "date": "2026-10",
+      "authors": ["Qipeng Qian", "Jialiang Jin", "Shihao Wang", "Yuntao Qian"],
+      "year": 2026,
+      "status": "preprint",
+      "venue": "arXiv preprint · October 2026",
+      "summary": "Spatial-mode demultiplexing improves estimates of local mineral absorption by reducing background light before detection, with simulations incorporating alignment, calibration, and acquisition costs.",
+      "topics": ["Optical sensing", "Parameter estimation"],
+      "url": "https://arxiv.org/abs/2610.39221",
+      "pdfUrl": "https://arxiv.org/pdf/2610.39221",
+      "doi": "10.48550/arXiv.2610.39221",
+      "citation": "Qipeng Qian, Jialiang Jin, Shihao Wang, and Yuntao Qian. Spatial-Mode Selection for Local Mineral Absorption Spectroscopy. arXiv preprint arXiv:2610.39221, 2026. https://doi.org/10.48550/arXiv.2610.39221",
+      "sourceUrl": "https://arxiv.org/html/2610.39221v1"
+    },
+    {
+      "title": "QAM: Quadratic-Accurate Checkpoint Merging via Sequential Consistency",
+      "category": "others",
+      "date": "2026-09",
+      "authors": ["Shihao Wang", "Rui Kong", "Xinran Chen", "Hui Wu", "Qipeng Qian", "Jinman Zhao", "Jiashu Zhao", "Yuchen Li", "Jimmy Huang", "Dawei Yin"],
+      "year": 2026,
+      "status": "preprint",
+      "venue": "arXiv preprint · September 2026",
+      "summary": "A checkpoint-merging rule with provable reconstruction guarantees under a local transition model, evaluated on public language-model training trajectories.",
+      "topics": ["Model merging", "Optimization"],
+      "url": "https://arxiv.org/abs/2609.35168",
+      "pdfUrl": "https://arxiv.org/pdf/2609.35168",
+      "doi": "10.48550/arXiv.2609.35168",
+      "citation": "Shihao Wang, Rui Kong, Xinran Chen, Hui Wu, Qipeng Qian, Jinman Zhao, Jiashu Zhao, Yuchen Li, Jimmy Huang, and Dawei Yin. QAM: Quadratic-Accurate Checkpoint Merging via Sequential Consistency. arXiv preprint arXiv:2609.35168, 2026. https://doi.org/10.48550/arXiv.2609.35168",
+      "sourceUrl": "https://arxiv.org/html/2609.35168v1"
+    }
+  ]
+}
