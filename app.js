@@ -13,6 +13,40 @@ const number = new Intl.NumberFormat('en-US');
 
 $('copyright-year').textContent = String(new Date().getFullYear());
 
+const pageTabs = [...document.querySelectorAll('.page-tab')];
+function selectPage(sectionId) {
+  const selected = pageTabs.find(tab => tab.getAttribute('aria-controls') === sectionId) || pageTabs[0];
+  pageTabs.forEach(tab => {
+    const active = tab === selected;
+    tab.setAttribute('aria-selected', String(active));
+    tab.tabIndex = active ? 0 : -1;
+    $(tab.getAttribute('aria-controls')).hidden = !active;
+  });
+}
+pageTabs.forEach((tab, index) => {
+  tab.addEventListener('click', event => {
+    event.preventDefault();
+    selectPage(tab.getAttribute('aria-controls'));
+    if (location.hash !== tab.hash) history.pushState(null, '', tab.hash);
+  });
+  tab.addEventListener('keydown', event => {
+    let nextIndex;
+    if (event.key === 'ArrowRight') nextIndex = (index + 1) % pageTabs.length;
+    else if (event.key === 'ArrowLeft') nextIndex = (index + pageTabs.length - 1) % pageTabs.length;
+    else if (event.key === 'Home') nextIndex = 0;
+    else if (event.key === 'End') nextIndex = pageTabs.length - 1;
+    else return;
+    event.preventDefault();
+    pageTabs[nextIndex].click();
+    pageTabs[nextIndex].focus();
+  });
+});
+function selectPageFromLocation() { selectPage(location.hash.slice(1)); }
+window.addEventListener('hashchange', selectPageFromLocation);
+window.addEventListener('popstate', selectPageFromLocation);
+selectPageFromLocation();
+
+
 function el(tag, className, text) {
   const node = document.createElement(tag);
   if(className) node.className=className;
@@ -64,7 +98,6 @@ async function loadPublications(){
   try{
     const response=await fetch('./publications.json');if(!response.ok)throw new Error('Publications unavailable');
     const data=await response.json();publications=data.publications.sort((a,b)=>String(b.date||b.year||'').localeCompare(String(a.date||a.year||'')));
-    if(data.profile?.researchSummary)$('research-summary').textContent=data.profile.researchSummary;
     renderPublications(document.querySelector('.filter.active').dataset.topic);
   }catch{$('publication-list').replaceChildren(el('p','loading-note','Publications could not be loaded. Please reload the page.'));}
 }

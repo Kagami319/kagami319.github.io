@@ -9,13 +9,12 @@ button:disabled{cursor:wait;opacity:.6}
 .page{padding:20px 0 30px}
 .bio-text{width:100%;padding:16px 16px 10px}
 .name{padding-top:8px}
-.subtitle{text-align:center;color:#555;margin:5px 0 23px}
-.bio-text>p:not(.subtitle){margin:12px 0}
+.bio-text>p{margin:12px 0}
 .email-line{font-size:13px}
 .bio-links{margin:18px 0 0;font-size:13px}
+.page-tab[aria-selected="true"]{color:#222;font-weight:700}
 .bio-links>span,.profile-links>span{padding:0 7px;color:#888}
 .section-header{padding:16px}
-.empty-news{margin:9px 0 0;color:#777;font-size:13px}
 .publication-toolbar{display:flex;align-items:center;justify-content:space-between;gap:15px;margin-top:10px;font-size:13px}
 .filter-group{display:flex;flex-wrap:wrap;align-items:center;row-gap:4px}
 .filter{color:#1772d0;background:none;border:0;padding:2px 0}
@@ -36,7 +35,7 @@ button:disabled{cursor:wait;opacity:.6}
 .paper-links{margin-top:3px;font-size:13px}
 .paper-links>*+*::before{content:' / ';color:#777;margin:0 5px}
 .loading-note,.empty-filter{margin:0;padding:10px 16px;color:#666}
-.esports-section{margin-top:30px}
+.esports-section{margin-top:0}
 .esports-tabs{display:flex;align-items:center;margin:10px 0 16px;font-size:13px}
 .esports-tab{color:#1772d0;background:none;border:0;padding:2px 0}
 .esports-tab.active{color:#222;font-weight:700}
@@ -96,7 +95,6 @@ button:disabled{cursor:wait;opacity:.6}
   .page{padding:12px 0 22px}
   .bio-text{padding:8px 18px 10px}
   .name{font-size:28px}
-  .subtitle{font-size:12px;margin-bottom:20px}
   .section-header{padding:14px 18px}
   .paper{grid-template-columns:minmax(0,1fr)}
   .paper-info{padding:0 18px}
@@ -106,7 +104,6 @@ button:disabled{cursor:wait;opacity:.6}
   .paper-count{font-size:11px}
   .filter-group>span{padding-inline:6px}
   .dota-stats{column-gap:20px;row-gap:8px}
-  .esports-section{margin-top:22px}
   .timeline>div{grid-template-columns:108px minmax(0,1fr);gap:10px}
   .site-footer{margin-inline:18px;flex-direction:column;gap:4px}
 }
