@@ -62,13 +62,12 @@ function externalLink(text,url,className='') {
 function renderPublications(topic='all') {
   const list=$('publication-list');list.replaceChildren();
   const filtered=publications.filter(p=>topic==='all'||p.category===topic);
-  $('publication-total').textContent=`${filtered.length} ${filtered.length===1?'paper':'papers'}`;
   const papers=el('div','papers');
   if(!filtered.length)papers.append(el('p','empty-filter','No papers in this topic yet.'));
-  filtered.forEach(p=>{
+  filtered.forEach((p,index)=>{
     const row=el('article','paper');
     const body=el('div','paper-info');
-    const h=el('h3','papertitle',p.title);
+    const h=el('h3','papertitle',`[${index+1}] ${p.title}`);
     if(safeUrl(p.url)){
       const link=externalLink('[link]',p.url,'paper-title-link');link.setAttribute('aria-label',`Open paper: ${p.title}`);
       h.append(document.createTextNode(' '),link);

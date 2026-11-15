@@ -25,7 +25,6 @@ button:disabled{cursor:wait;opacity:.6}
 .filter:hover,.esports-tab:hover,.text-button:hover{color:#f09228}
 .filter.active{color:#222;font-weight:700}
 .filter-group>span{color:#999;padding:0 8px}
-.paper-count{font-size:12px;color:#777;white-space:nowrap}
 .papers{margin-top:0;gap:20px}
 .paper-status{font-weight:400}
 .paper{grid-template-columns:minmax(0,1fr);align-items:start}
@@ -106,7 +105,6 @@ button:disabled{cursor:wait;opacity:.6}
   .papers{gap:22px}
   .publication-toolbar{font-size:12px}
   .publication-toolbar{align-items:flex-start}
-  .paper-count{font-size:11px}
   .filter-group>span{padding-inline:6px}
   .dota-stats{column-gap:20px;row-gap:8px}
   .timeline>div{grid-template-columns:108px minmax(0,1fr);gap:10px}
