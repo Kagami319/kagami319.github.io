@@ -15,6 +15,10 @@ button:disabled{cursor:wait;opacity:.6}
 .page-tab[aria-selected="true"]{color:#222;font-weight:700}
 .bio-links>span,.profile-links>span{padding:0 7px;color:#888}
 .section-header{padding:16px}
+.news-list{margin:14px 0 0}
+.news-item{display:grid;grid-template-columns:90px minmax(0,1fr);gap:16px}
+.news-item dt{font-weight:700;white-space:nowrap}
+.news-item dd{margin:0}
 .publication-toolbar{display:flex;align-items:center;justify-content:space-between;gap:15px;margin-top:10px;font-size:13px}
 .filter-group{display:flex;flex-wrap:wrap;align-items:center;row-gap:4px}
 .filter{color:#1772d0;background:none;border:0;padding:2px 0}
@@ -23,7 +27,7 @@ button:disabled{cursor:wait;opacity:.6}
 .filter-group>span{color:#999;padding:0 8px}
 .paper-count{font-size:12px;color:#777;white-space:nowrap}
 .papers{margin-top:0;gap:20px}
-.paper-status{font-weight:700}
+.paper-status{font-weight:400}
 .paper{grid-template-columns:minmax(0,1fr);align-items:start}
 .paper-info{padding:0 16px}
 .papertitle{margin:0 0 2px;line-height:1.5}
@@ -96,6 +100,7 @@ button:disabled{cursor:wait;opacity:.6}
   .bio-text{padding:8px 18px 10px}
   .name{font-size:28px}
   .section-header{padding:14px 18px}
+  .news-item{grid-template-columns:76px minmax(0,1fr);gap:12px}
   .paper{grid-template-columns:minmax(0,1fr)}
   .paper-info{padding:0 18px}
   .papers{gap:22px}
