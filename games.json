@@ -77,11 +77,6 @@
       "cover": "./assets/games/sid-meier-s-civilization-vi.webp"
     },
     {
-      "title": "Command & Conquer",
-      "series": "Command & Conquer",
-      "cover": "./assets/games/command-and-conquer.webp"
-    },
-    {
       "title": "Command & Conquer 3: Kane's Wrath",
       "series": "Command & Conquer",
       "cover": "./assets/games/command-and-conquer-3-kane-s-wrath.webp"
@@ -97,21 +92,6 @@
       "cover": "./assets/games/command-and-conquer-4-tiberian-twilight.webp"
     },
     {
-      "title": "Command & Conquer: Generals",
-      "series": "Command & Conquer",
-      "cover": "./assets/games/command-and-conquer-generals.webp"
-    },
-    {
-      "title": "Command & Conquer: Generals — Zero Hour",
-      "series": "Command & Conquer",
-      "cover": "./assets/games/command-and-conquer-generals-zero-hour.webp"
-    },
-    {
-      "title": "Command & Conquer: Red Alert",
-      "series": "Command & Conquer",
-      "cover": "./assets/games/command-and-conquer-red-alert.webp"
-    },
-    {
       "title": "Command & Conquer: Red Alert 2",
       "series": "Command & Conquer",
       "cover": "./assets/games/command-and-conquer-red-alert-2.webp"
@@ -125,16 +105,6 @@
       "title": "Command & Conquer: Red Alert 3 — Uprising",
       "series": "Command & Conquer",
       "cover": "./assets/games/command-and-conquer-red-alert-3-uprising.webp"
-    },
-    {
-      "title": "Command & Conquer: Renegade",
-      "series": "Command & Conquer",
-      "cover": "./assets/games/command-and-conquer-renegade.webp"
-    },
-    {
-      "title": "Command & Conquer: Tiberian Sun",
-      "series": "Command & Conquer",
-      "cover": "./assets/games/command-and-conquer-tiberian-sun.webp"
     },
     {
       "title": "Crusader Kings III",

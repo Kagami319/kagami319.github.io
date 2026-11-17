@@ -1,6 +1,7 @@
 # Selected Inventory artwork
 
 The collection was selected by Shihao Wang from his game library. Dota 2 has its own section; the Fallout 76 test server and a duplicate SHOGUN 2 edition cover are omitted.
+The Command & Conquer selection is limited to Tiberium Wars, Kane’s Wrath, Tiberian Twilight, Red Alert 2, Red Alert 3, and Uprising, as requested by the owner.
 
 Game cover artwork belongs to the respective publishers. Images were obtained from Steam’s public artwork CDN and resized/encoded as WebP for this personal, non-commercial collection. They are stored with the site, so viewing this gallery does not query a Steam account or require an API key.
 
@@ -21,18 +22,12 @@ Edit `games.json` to update the selection. The 6 entries with `previewOrder` for
 - **Borderlands 2** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/49520/library_600x900.jpg); Steam App ID `49520`.
 - **Sid Meier's Civilization V** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8930/library_600x900.jpg); Steam App ID `8930`.
 - **Sid Meier's Civilization VI** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/library_600x900.jpg); Steam App ID `289070`.
-- **Command & Conquer** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2229830/library_600x900.jpg); Steam App ID `2229830`.
 - **Command & Conquer 3: Kane's Wrath** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24810/library_600x900.jpg); Steam App ID `24810`.
 - **Command & Conquer 3: Tiberium Wars** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24790/library_600x900.jpg); Steam App ID `24790`.
 - **Command & Conquer 4: Tiberian Twilight** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/47700/library_600x900.jpg); Steam App ID `47700`.
-- **Command & Conquer: Generals** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2229870/library_600x900.jpg); Steam App ID `2229870`.
-- **Command & Conquer: Generals — Zero Hour** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2732960/library_600x900.jpg); Steam App ID `2732960`.
-- **Command & Conquer: Red Alert** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2229840/library_600x900.jpg); Steam App ID `2229840`.
 - **Command & Conquer: Red Alert 2** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2229850/library_600x900.jpg); Steam App ID `2229850`.
 - **Command & Conquer: Red Alert 3** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/17480/library_600x900.jpg); Steam App ID `17480`.
 - **Command & Conquer: Red Alert 3 — Uprising** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24800/library_600x900.jpg); Steam App ID `24800`.
-- **Command & Conquer: Renegade** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2229890/library_600x900.jpg); Steam App ID `2229890`.
-- **Command & Conquer: Tiberian Sun** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2229880/library_600x900.jpg); Steam App ID `2229880`.
 - **Crusader Kings III** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158310/library_600x900.jpg); Steam App ID `1158310`.
 - **Cyberpunk 2077** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/library_600x900.jpg); Steam App ID `1091500`.
 - **DARK SOULS III** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/374320/library_600x900.jpg); Steam App ID `374320`.

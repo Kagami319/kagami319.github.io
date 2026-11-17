@@ -58,7 +58,7 @@ export function showGameInventory() {
   if (loading) return loading;
   loading = (async () => {
     try {
-      const response = await fetch('./games.json?v=20261117-six-games');
+      const response = await fetch('./games.json?v=20261117-curated');
       if (!response.ok) throw new Error('Inventory unavailable');
       const data = await response.json();
       if (!Array.isArray(data.games) || !data.games.length) throw new Error('Inventory empty');
