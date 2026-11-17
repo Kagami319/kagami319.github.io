@@ -193,6 +193,26 @@
       "doi": "10.48550/arXiv.2609.35168",
       "citation": "Shihao Wang, Rui Kong, Xinran Chen, Hui Wu, Qipeng Qian, Jinman Zhao, Jiashu Zhao, Yuchen Li, Jimmy Huang, and Dawei Yin. QAM: Quadratic-Accurate Checkpoint Merging via Sequential Consistency. arXiv preprint arXiv:2609.35168, 2026. https://doi.org/10.48550/arXiv.2609.35168",
       "sourceUrl": "https://arxiv.org/html/2609.35168v1"
+    },
+    {
+      "title": "Information-Calibrated Quantum Diffusion: Aligning Forward Noise with Reverse Recoverability",
+      "category": "quantum",
+      "date": "2026-08",
+      "authors": [
+        "Qipeng Qian",
+        "Jialiang Jin",
+        "Shihao Wang",
+        "Yuntao Qian"
+      ],
+      "year": 2026,
+      "status": "preprint",
+      "venue": "arXiv preprint · August 2026",
+      "url": "https://arxiv.org/abs/2608.14083",
+      "doi": "10.48550/arXiv.2608.14083",
+      "sourceUrl": "https://arxiv.org/abs/2608.14083v3",
+      "revisedDate": "2026-11-15",
+      "arxivVersion": 3,
+      "verificationNote": "Title, author order, and v3 revision date verified from the arXiv-page screenshot supplied by the author on November 17, 2026. First submitted August 14, 2026; v3 revised November 15, 2026."
     }
   ]
 }
