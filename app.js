@@ -1,4 +1,5 @@
 import {fetchDotaStats} from './dota-api.js';
+import {showGameInventory} from './game-inventory.js?v=20261117-inventory';
 
 const $ = (id) => document.getElementById(id);
 const ACCOUNT_ID = '889388443';
@@ -107,6 +108,7 @@ function selectEsport(tab){
     const active=button===tab;button.classList.toggle('active',active);button.setAttribute('aria-selected',String(active));button.tabIndex=active?0:-1;
     $(button.getAttribute('aria-controls')).hidden=!active;
   });
+  if(tab.dataset.esport==='general')showGameInventory();
 }
 esportsTabs.forEach((tab,index)=>{
   tab.addEventListener('click',()=>selectEsport(tab));

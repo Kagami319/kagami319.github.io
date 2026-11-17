@@ -1,0 +1,95 @@
+# Selected Inventory artwork
+
+The collection was selected by Shihao Wang from his game library. Dota 2 has its own section; the Fallout 76 test server and a duplicate SHOGUN 2 edition cover are omitted.
+
+Game cover artwork belongs to the respective publishers. Images were obtained from Steam’s public artwork CDN and resized/encoded as WebP for this personal, non-commercial collection. They are stored with the site, so viewing this gallery does not query a Steam account or require an API key.
+
+Edit `games.json` to update the selection. The 12 entries with `previewOrder` form the initial view; the full collection is arranged by series.
+
+- **ACE COMBAT 7: SKIES UNKNOWN** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/502500/library_600x900.jpg); Steam App ID `502500`.
+- **ACE COMBAT 8: WINGS OF THEVE** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2288340/a1fb5685d2c140309d5549af1ddc725a7114d889/library_capsule.jpg); Steam App ID `2288340`.
+- **ACE COMBAT ZERO: THE BELKAN WAR** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5370600/4566769daf9039ab320bd171820767249a5027c2/library_capsule.jpg); Steam App ID `5370600`.
+- **Age of Empires II: Definitive Edition** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/813780/library_600x900.jpg); Steam App ID `813780`.
+- **Age of Empires III: Definitive Edition** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/933110/library_600x900.jpg); Steam App ID `933110`.
+- **Age of Empires IV: Anniversary Edition** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1466860/library_600x900.jpg); Steam App ID `1466860`.
+- **Anno 1800** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/916440/library_600x900.jpg); Steam App ID `916440`.
+- **Batman: Arkham City — Game of the Year Edition** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/200260/library_600x900.jpg); Steam App ID `200260`.
+- **Battlefield 1 Revolution** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238840/library_600x900.jpg); Steam App ID `1238840`.
+- **Battlefield 2042** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1517290/library_600x900.jpg); Steam App ID `1517290`.
+- **Battlefield 6** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/5efba891507f611d94ef6685cc2af7cd0640f55d/library_capsule.jpg); Steam App ID `2807960`.
+- **Battlefield V: Definitive Edition** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238810/library_600x900.jpg); Steam App ID `1238810`.
+- **Borderlands 2** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/49520/library_600x900.jpg); Steam App ID `49520`.
+- **Sid Meier's Civilization V** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8930/library_600x900.jpg); Steam App ID `8930`.
+- **Sid Meier's Civilization VI** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/library_600x900.jpg); Steam App ID `289070`.
+- **Command & Conquer** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2229830/library_600x900.jpg); Steam App ID `2229830`.
+- **Command & Conquer 3: Kane's Wrath** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24810/library_600x900.jpg); Steam App ID `24810`.
+- **Command & Conquer 3: Tiberium Wars** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24790/library_600x900.jpg); Steam App ID `24790`.
+- **Command & Conquer 4: Tiberian Twilight** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/47700/library_600x900.jpg); Steam App ID `47700`.
+- **Command & Conquer: Generals** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2229870/library_600x900.jpg); Steam App ID `2229870`.
+- **Command & Conquer: Generals — Zero Hour** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2732960/library_600x900.jpg); Steam App ID `2732960`.
+- **Command & Conquer: Red Alert** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2229840/library_600x900.jpg); Steam App ID `2229840`.
+- **Command & Conquer: Red Alert 2** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2229850/library_600x900.jpg); Steam App ID `2229850`.
+- **Command & Conquer: Red Alert 3** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/17480/library_600x900.jpg); Steam App ID `17480`.
+- **Command & Conquer: Red Alert 3 — Uprising** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24800/library_600x900.jpg); Steam App ID `24800`.
+- **Command & Conquer: Renegade** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2229890/library_600x900.jpg); Steam App ID `2229890`.
+- **Command & Conquer: Tiberian Sun** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2229880/library_600x900.jpg); Steam App ID `2229880`.
+- **Crusader Kings III** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158310/library_600x900.jpg); Steam App ID `1158310`.
+- **Cyberpunk 2077** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/library_600x900.jpg); Steam App ID `1091500`.
+- **DARK SOULS III** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/374320/library_600x900.jpg); Steam App ID `374320`.
+- **Dead Space** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1693980/library_600x900.jpg); Steam App ID `1693980`.
+- **Dolls Nest** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1839430/library_600x900.jpg); Steam App ID `1839430`.
+- **Dying Light** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/239140/library_600x900.jpg); Steam App ID `239140`.
+- **Dying Light: The Beast** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3008130/library_600x900.jpg); Steam App ID `3008130`.
+- **Fallout 76** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1151340/library_600x900.jpg); Steam App ID `1151340`.
+- **Forza Horizon 5** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551360/library_600x900.jpg); Steam App ID `1551360`.
+- **Forza Horizon 6** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2483190/711e39803402def82a90e1f31578c64744f952f3/library_capsule.jpg); Steam App ID `2483190`.
+- **Frostpunk** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323190/library_600x900.jpg); Steam App ID `323190`.
+- **Ghost of Tsushima: Director's Cut** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/library_600x900.jpg); Steam App ID `2215430`.
+- **Tom Clancy's Ghost Recon Breakpoint** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2231380/library_600x900.jpg); Steam App ID `2231380`.
+- **Tom Clancy's Ghost Recon Wildlands** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/460930/library_600x900.jpg); Steam App ID `460930`.
+- **Mobile Suit Gundam Battle Operation 2** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1367080/library_600x900.jpg); Steam App ID `1367080`.
+- **Halo: The Master Chief Collection** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976730/library_600x900.jpg); Steam App ID `976730`.
+- **Hatsune Miku Logic Paint S+** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3446190/97351e91a2da6626bee1e543ca6ad15a374aaf73/library_600x900.jpg); Steam App ID `3446190`.
+- **Hatsune Miku VR** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/707300/library_600x900.jpg); Steam App ID `707300`.
+- **Hatsune Miku: Project DIVA Mega Mix+** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1761390/library_600x900.jpg); Steam App ID `1761390`.
+- **Heroes of Might and Magic: Olden Era** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3105440/library_600x900.jpg); Steam App ID `3105440`.
+- **HITMAN 2** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/863550/library_600x900.jpg); Steam App ID `863550`.
+- **Left 4 Dead 2** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/550/library_600x900.jpg); Steam App ID `550`.
+- **Metro Exodus** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/412020/library_600x900.jpg); Steam App ID `412020`.
+- **Monster Hunter Rise** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446780/library_600x900.jpg); Steam App ID `1446780`.
+- **Monster Hunter Wilds** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2246340/library_600x900.jpg); Steam App ID `2246340`.
+- **Monster Hunter: World** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/582010/library_600x900.jpg); Steam App ID `582010`.
+- **NBA 2K22** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1644960/library_600x900.jpg); Steam App ID `1644960`.
+- **NBA 2K23** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1919590/library_600x900.jpg); Steam App ID `1919590`.
+- **NBA 2K26** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3472040/bebd889b3d90330de84453f42c4dfd525a9ea06f/library_600x900.jpg); Steam App ID `3472040`.
+- **Need for Speed Heat** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222680/library_600x900.jpg); Steam App ID `1222680`.
+- **Need for Speed Hot Pursuit Remastered** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1328660/library_600x900.jpg); Steam App ID `1328660`.
+- **Need for Speed Most Wanted** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1262560/library_600x900.jpg); Steam App ID `1262560`.
+- **Need for Speed Rivals** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1262600/library_600x900.jpg); Steam App ID `1262600`.
+- **Need for Speed Unbound** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1846380/library_600x900.jpg); Steam App ID `1846380`.
+- **No Man's Sky** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/275850/library_600x900.jpg); Steam App ID `275850`.
+- **ŌKAMI HD** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/587620/library_600x900.jpg); Steam App ID `587620`.
+- **Portal** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/400/library_600x900.jpg); Steam App ID `400`.
+- **Portal 2** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/620/library_600x900.jpg); Steam App ID `620`.
+- **Tom Clancy's Rainbow Six Siege** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359550/library_600x900.jpg); Steam App ID `359550`.
+- **Red Dead Redemption 2** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/library_600x900.jpg); Steam App ID `1174180`.
+- **Resident Evil 2** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/883710/library_600x900.jpg); Steam App ID `883710`.
+- **Resident Evil 3** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/952060/library_600x900.jpg); Steam App ID `952060`.
+- **Resident Evil 4** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2050650/library_600x900.jpg); Steam App ID `2050650`.
+- **Resident Evil 7 biohazard** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418370/library_600x900.jpg); Steam App ID `418370`.
+- **Resident Evil Requiem** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3764200/ed3b2cae7d15f598f41006f5f1e605ec5517b5e4/library_capsule.jpg); Steam App ID `3764200`.
+- **Resident Evil Resistance** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/952070/library_600x900.jpg); Steam App ID `952070`.
+- **Resident Evil Revelations 2** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/287290/library_600x900.jpg); Steam App ID `287290`.
+- **Resident Evil Village** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1196590/library_600x900.jpg); Steam App ID `1196590`.
+- **Sea of Thieves** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172620/library_600x900.jpg); Steam App ID `1172620`.
+- **SILENT HILL f** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2947440/library_600x900.jpg); Steam App ID `2947440`.
+- **Split Fiction** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/library_600x900.jpg); Steam App ID `2001120`.
+- **Tom Clancy's The Division** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/365590/library_600x900.jpg); Steam App ID `365590`.
+- **Sons of the Forest** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1326470/library_600x900.jpg); Steam App ID `1326470`.
+- **Titanfall 2** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1237970/library_600x900.jpg); Steam App ID `1237970`.
+- **Total War: SHOGUN 2** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/201270/library_600x900.jpg); Steam App ID `201270`.
+- **Total War: THREE KINGDOMS** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/779340/library_600x900.jpg); Steam App ID `779340`.
+- **Total War: WARHAMMER** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/364360/library_600x900.jpg); Steam App ID `364360`.
+- **Total War: WARHAMMER II** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/594570/library_600x900.jpg); Steam App ID `594570`.
+- **Total War: WARHAMMER III** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1142710/library_600x900.jpg); Steam App ID `1142710`.
+- **Warhammer 40,000: Space Marine** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/55150/library_600x900.jpg); Steam App ID `55150`.

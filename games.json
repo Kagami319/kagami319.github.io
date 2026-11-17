@@ -1,0 +1,451 @@
+{
+  "games": [
+    {
+      "title": "ACE COMBAT 7: SKIES UNKNOWN",
+      "series": "ACE COMBAT",
+      "cover": "./assets/games/ace-combat-7-skies-unknown.webp",
+      "previewOrder": 4
+    },
+    {
+      "title": "ACE COMBAT 8: WINGS OF THEVE",
+      "series": "ACE COMBAT",
+      "cover": "./assets/games/ace-combat-8-wings-of-theve.webp"
+    },
+    {
+      "title": "ACE COMBAT ZERO: THE BELKAN WAR",
+      "series": "ACE COMBAT",
+      "cover": "./assets/games/ace-combat-zero-the-belkan-war.webp"
+    },
+    {
+      "title": "Age of Empires II: Definitive Edition",
+      "series": "Age of Empires",
+      "cover": "./assets/games/age-of-empires-ii-definitive-edition.webp"
+    },
+    {
+      "title": "Age of Empires III: Definitive Edition",
+      "series": "Age of Empires",
+      "cover": "./assets/games/age-of-empires-iii-definitive-edition.webp"
+    },
+    {
+      "title": "Age of Empires IV: Anniversary Edition",
+      "series": "Age of Empires",
+      "cover": "./assets/games/age-of-empires-iv-anniversary-edition.webp"
+    },
+    {
+      "title": "Anno 1800",
+      "series": "Anno",
+      "cover": "./assets/games/anno-1800.webp"
+    },
+    {
+      "title": "Batman: Arkham City — Game of the Year Edition",
+      "series": "Batman: Arkham",
+      "cover": "./assets/games/batman-arkham-city-game-of-the-year-edition.webp"
+    },
+    {
+      "title": "Battlefield 1 Revolution",
+      "series": "Battlefield",
+      "cover": "./assets/games/battlefield-1-revolution.webp"
+    },
+    {
+      "title": "Battlefield 2042",
+      "series": "Battlefield",
+      "cover": "./assets/games/battlefield-2042.webp"
+    },
+    {
+      "title": "Battlefield 6",
+      "series": "Battlefield",
+      "cover": "./assets/games/battlefield-6.webp"
+    },
+    {
+      "title": "Battlefield V: Definitive Edition",
+      "series": "Battlefield",
+      "cover": "./assets/games/battlefield-v-definitive-edition.webp"
+    },
+    {
+      "title": "Borderlands 2",
+      "series": "Borderlands",
+      "cover": "./assets/games/borderlands-2.webp"
+    },
+    {
+      "title": "Sid Meier's Civilization V",
+      "series": "Civilization",
+      "cover": "./assets/games/sid-meier-s-civilization-v.webp"
+    },
+    {
+      "title": "Sid Meier's Civilization VI",
+      "series": "Civilization",
+      "cover": "./assets/games/sid-meier-s-civilization-vi.webp"
+    },
+    {
+      "title": "Command & Conquer",
+      "series": "Command & Conquer",
+      "cover": "./assets/games/command-and-conquer.webp"
+    },
+    {
+      "title": "Command & Conquer 3: Kane's Wrath",
+      "series": "Command & Conquer",
+      "cover": "./assets/games/command-and-conquer-3-kane-s-wrath.webp"
+    },
+    {
+      "title": "Command & Conquer 3: Tiberium Wars",
+      "series": "Command & Conquer",
+      "cover": "./assets/games/command-and-conquer-3-tiberium-wars.webp"
+    },
+    {
+      "title": "Command & Conquer 4: Tiberian Twilight",
+      "series": "Command & Conquer",
+      "cover": "./assets/games/command-and-conquer-4-tiberian-twilight.webp"
+    },
+    {
+      "title": "Command & Conquer: Generals",
+      "series": "Command & Conquer",
+      "cover": "./assets/games/command-and-conquer-generals.webp"
+    },
+    {
+      "title": "Command & Conquer: Generals — Zero Hour",
+      "series": "Command & Conquer",
+      "cover": "./assets/games/command-and-conquer-generals-zero-hour.webp"
+    },
+    {
+      "title": "Command & Conquer: Red Alert",
+      "series": "Command & Conquer",
+      "cover": "./assets/games/command-and-conquer-red-alert.webp"
+    },
+    {
+      "title": "Command & Conquer: Red Alert 2",
+      "series": "Command & Conquer",
+      "cover": "./assets/games/command-and-conquer-red-alert-2.webp"
+    },
+    {
+      "title": "Command & Conquer: Red Alert 3",
+      "series": "Command & Conquer",
+      "cover": "./assets/games/command-and-conquer-red-alert-3.webp",
+      "previewOrder": 3
+    },
+    {
+      "title": "Command & Conquer: Red Alert 3 — Uprising",
+      "series": "Command & Conquer",
+      "cover": "./assets/games/command-and-conquer-red-alert-3-uprising.webp"
+    },
+    {
+      "title": "Command & Conquer: Renegade",
+      "series": "Command & Conquer",
+      "cover": "./assets/games/command-and-conquer-renegade.webp"
+    },
+    {
+      "title": "Command & Conquer: Tiberian Sun",
+      "series": "Command & Conquer",
+      "cover": "./assets/games/command-and-conquer-tiberian-sun.webp"
+    },
+    {
+      "title": "Crusader Kings III",
+      "series": "Crusader Kings",
+      "cover": "./assets/games/crusader-kings-iii.webp"
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "series": "Cyberpunk",
+      "cover": "./assets/games/cyberpunk-2077.webp",
+      "previewOrder": 8
+    },
+    {
+      "title": "DARK SOULS III",
+      "series": "Dark Souls",
+      "cover": "./assets/games/dark-souls-iii.webp"
+    },
+    {
+      "title": "Dead Space",
+      "series": "Dead Space",
+      "cover": "./assets/games/dead-space.webp"
+    },
+    {
+      "title": "Dolls Nest",
+      "series": "Dolls Nest",
+      "cover": "./assets/games/dolls-nest.webp"
+    },
+    {
+      "title": "Dying Light",
+      "series": "Dying Light",
+      "cover": "./assets/games/dying-light.webp"
+    },
+    {
+      "title": "Dying Light: The Beast",
+      "series": "Dying Light",
+      "cover": "./assets/games/dying-light-the-beast.webp"
+    },
+    {
+      "title": "Fallout 76",
+      "series": "Fallout",
+      "cover": "./assets/games/fallout-76.webp"
+    },
+    {
+      "title": "Forza Horizon 5",
+      "series": "Forza Horizon",
+      "cover": "./assets/games/forza-horizon-5.webp",
+      "previewOrder": 5
+    },
+    {
+      "title": "Forza Horizon 6",
+      "series": "Forza Horizon",
+      "cover": "./assets/games/forza-horizon-6.webp"
+    },
+    {
+      "title": "Frostpunk",
+      "series": "Frostpunk",
+      "cover": "./assets/games/frostpunk.webp"
+    },
+    {
+      "title": "Ghost of Tsushima: Director's Cut",
+      "series": "Ghost of Tsushima",
+      "cover": "./assets/games/ghost-of-tsushima-director-s-cut.webp"
+    },
+    {
+      "title": "Tom Clancy's Ghost Recon Breakpoint",
+      "series": "Ghost Recon",
+      "cover": "./assets/games/tom-clancy-s-ghost-recon-breakpoint.webp"
+    },
+    {
+      "title": "Tom Clancy's Ghost Recon Wildlands",
+      "series": "Ghost Recon",
+      "cover": "./assets/games/tom-clancy-s-ghost-recon-wildlands.webp"
+    },
+    {
+      "title": "Mobile Suit Gundam Battle Operation 2",
+      "series": "Gundam",
+      "cover": "./assets/games/mobile-suit-gundam-battle-operation-2.webp"
+    },
+    {
+      "title": "Halo: The Master Chief Collection",
+      "series": "Halo",
+      "cover": "./assets/games/halo-the-master-chief-collection.webp"
+    },
+    {
+      "title": "Hatsune Miku Logic Paint S+",
+      "series": "Hatsune Miku",
+      "cover": "./assets/games/hatsune-miku-logic-paint-s.webp"
+    },
+    {
+      "title": "Hatsune Miku VR",
+      "series": "Hatsune Miku",
+      "cover": "./assets/games/hatsune-miku-vr.webp"
+    },
+    {
+      "title": "Hatsune Miku: Project DIVA Mega Mix+",
+      "series": "Hatsune Miku",
+      "cover": "./assets/games/hatsune-miku-project-diva-mega-mix.webp",
+      "previewOrder": 7
+    },
+    {
+      "title": "Heroes of Might and Magic: Olden Era",
+      "series": "Heroes of Might and Magic",
+      "cover": "./assets/games/heroes-of-might-and-magic-olden-era.webp"
+    },
+    {
+      "title": "HITMAN 2",
+      "series": "Hitman",
+      "cover": "./assets/games/hitman-2.webp"
+    },
+    {
+      "title": "Left 4 Dead 2",
+      "series": "Left 4 Dead",
+      "cover": "./assets/games/left-4-dead-2.webp"
+    },
+    {
+      "title": "Metro Exodus",
+      "series": "Metro",
+      "cover": "./assets/games/metro-exodus.webp"
+    },
+    {
+      "title": "Monster Hunter Rise",
+      "series": "Monster Hunter",
+      "cover": "./assets/games/monster-hunter-rise.webp"
+    },
+    {
+      "title": "Monster Hunter Wilds",
+      "series": "Monster Hunter",
+      "cover": "./assets/games/monster-hunter-wilds.webp"
+    },
+    {
+      "title": "Monster Hunter: World",
+      "series": "Monster Hunter",
+      "cover": "./assets/games/monster-hunter-world.webp",
+      "previewOrder": 1
+    },
+    {
+      "title": "NBA 2K22",
+      "series": "NBA 2K",
+      "cover": "./assets/games/nba-2k22.webp"
+    },
+    {
+      "title": "NBA 2K23",
+      "series": "NBA 2K",
+      "cover": "./assets/games/nba-2k23.webp"
+    },
+    {
+      "title": "NBA 2K26",
+      "series": "NBA 2K",
+      "cover": "./assets/games/nba-2k26.webp",
+      "previewOrder": 6
+    },
+    {
+      "title": "Need for Speed Heat",
+      "series": "Need for Speed",
+      "cover": "./assets/games/need-for-speed-heat.webp"
+    },
+    {
+      "title": "Need for Speed Hot Pursuit Remastered",
+      "series": "Need for Speed",
+      "cover": "./assets/games/need-for-speed-hot-pursuit-remastered.webp"
+    },
+    {
+      "title": "Need for Speed Most Wanted",
+      "series": "Need for Speed",
+      "cover": "./assets/games/need-for-speed-most-wanted.webp"
+    },
+    {
+      "title": "Need for Speed Rivals",
+      "series": "Need for Speed",
+      "cover": "./assets/games/need-for-speed-rivals.webp"
+    },
+    {
+      "title": "Need for Speed Unbound",
+      "series": "Need for Speed",
+      "cover": "./assets/games/need-for-speed-unbound.webp"
+    },
+    {
+      "title": "No Man's Sky",
+      "series": "No Man's Sky",
+      "cover": "./assets/games/no-man-s-sky.webp"
+    },
+    {
+      "title": "ŌKAMI HD",
+      "series": "Ōkami",
+      "cover": "./assets/games/okami-hd.webp"
+    },
+    {
+      "title": "Portal",
+      "series": "Portal",
+      "cover": "./assets/games/portal.webp"
+    },
+    {
+      "title": "Portal 2",
+      "series": "Portal",
+      "cover": "./assets/games/portal-2.webp",
+      "previewOrder": 11
+    },
+    {
+      "title": "Tom Clancy's Rainbow Six Siege",
+      "series": "Rainbow Six",
+      "cover": "./assets/games/tom-clancy-s-rainbow-six-siege.webp",
+      "previewOrder": 0
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "series": "Red Dead Redemption",
+      "cover": "./assets/games/red-dead-redemption-2.webp",
+      "previewOrder": 9
+    },
+    {
+      "title": "Resident Evil 2",
+      "series": "Resident Evil",
+      "cover": "./assets/games/resident-evil-2.webp"
+    },
+    {
+      "title": "Resident Evil 3",
+      "series": "Resident Evil",
+      "cover": "./assets/games/resident-evil-3.webp"
+    },
+    {
+      "title": "Resident Evil 4",
+      "series": "Resident Evil",
+      "cover": "./assets/games/resident-evil-4.webp",
+      "previewOrder": 10
+    },
+    {
+      "title": "Resident Evil 7 biohazard",
+      "series": "Resident Evil",
+      "cover": "./assets/games/resident-evil-7-biohazard.webp"
+    },
+    {
+      "title": "Resident Evil Requiem",
+      "series": "Resident Evil",
+      "cover": "./assets/games/resident-evil-requiem.webp"
+    },
+    {
+      "title": "Resident Evil Resistance",
+      "series": "Resident Evil",
+      "cover": "./assets/games/resident-evil-resistance.webp"
+    },
+    {
+      "title": "Resident Evil Revelations 2",
+      "series": "Resident Evil",
+      "cover": "./assets/games/resident-evil-revelations-2.webp"
+    },
+    {
+      "title": "Resident Evil Village",
+      "series": "Resident Evil",
+      "cover": "./assets/games/resident-evil-village.webp"
+    },
+    {
+      "title": "Sea of Thieves",
+      "series": "Sea of Thieves",
+      "cover": "./assets/games/sea-of-thieves.webp"
+    },
+    {
+      "title": "SILENT HILL f",
+      "series": "Silent Hill",
+      "cover": "./assets/games/silent-hill-f.webp"
+    },
+    {
+      "title": "Split Fiction",
+      "series": "Split Fiction",
+      "cover": "./assets/games/split-fiction.webp"
+    },
+    {
+      "title": "Tom Clancy's The Division",
+      "series": "The Division",
+      "cover": "./assets/games/tom-clancy-s-the-division.webp"
+    },
+    {
+      "title": "Sons of the Forest",
+      "series": "The Forest",
+      "cover": "./assets/games/sons-of-the-forest.webp"
+    },
+    {
+      "title": "Titanfall 2",
+      "series": "Titanfall",
+      "cover": "./assets/games/titanfall-2.webp"
+    },
+    {
+      "title": "Total War: SHOGUN 2",
+      "series": "Total War",
+      "cover": "./assets/games/total-war-shogun-2.webp",
+      "previewOrder": 2
+    },
+    {
+      "title": "Total War: THREE KINGDOMS",
+      "series": "Total War",
+      "cover": "./assets/games/total-war-three-kingdoms.webp"
+    },
+    {
+      "title": "Total War: WARHAMMER",
+      "series": "Total War",
+      "cover": "./assets/games/total-war-warhammer.webp"
+    },
+    {
+      "title": "Total War: WARHAMMER II",
+      "series": "Total War",
+      "cover": "./assets/games/total-war-warhammer-ii.webp"
+    },
+    {
+      "title": "Total War: WARHAMMER III",
+      "series": "Total War",
+      "cover": "./assets/games/total-war-warhammer-iii.webp"
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine",
+      "series": "Warhammer 40,000",
+      "cover": "./assets/games/warhammer-40-000-space-marine.webp"
+    }
+  ]
+}

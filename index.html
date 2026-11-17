@@ -9,8 +9,8 @@
     <meta name="theme-color" content="#ffffff">
     <title>Shihao Wang</title>
     <link rel="stylesheet" href="./stylesheet.css">
-    <link rel="stylesheet" href="./styles.css?v=20261114-numbered">
-    <script type="module" src="./app.js?v=20261114-numbered"></script>
+    <link rel="stylesheet" href="./styles.css?v=20261117-inventory">
+    <script type="module" src="./app.js?v=20261117-inventory"></script>
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
@@ -116,7 +116,13 @@
           <p id="data-state" class="data-state"><span>Loading from OpenDota</span></p>
           <p id="stats-message" class="stats-note" role="status"></p>
           </div>
-          <div id="esport-general" role="tabpanel" aria-labelledby="general-tab" hidden></div>
+          <div id="esport-general" role="tabpanel" aria-labelledby="general-tab" hidden>
+            <p class="general-intro">Beyond Dota 2, I enjoy games ranging from strategy and tactical shooters to racing, action adventures, and rhythm games. Below is a selection from my library.</p>
+            <h3 class="subsection-title" id="inventory-title">Selected Inventory</h3>
+            <p id="inventory-state" class="inventory-state" role="status">Loading selected games…</p>
+            <ul id="game-inventory" class="game-grid" aria-labelledby="inventory-title" aria-busy="true"></ul>
+            <button id="toggle-games" class="text-button inventory-toggle" type="button" aria-expanded="false" aria-controls="game-inventory" hidden>Show all games</button>
+          </div>
         </div>
       </section>
       <footer class="site-footer"><span>© <span id="copyright-year">2026</span> Shihao Wang</span></footer>
