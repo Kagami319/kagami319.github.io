@@ -4,7 +4,7 @@ The collection was selected by Shihao Wang from his game library. Dota 2 has its
 
 Game cover artwork belongs to the respective publishers. Images were obtained from Steam’s public artwork CDN and resized/encoded as WebP for this personal, non-commercial collection. They are stored with the site, so viewing this gallery does not query a Steam account or require an API key.
 
-Edit `games.json` to update the selection. The 12 entries with `previewOrder` form the initial view; the full collection is arranged by series.
+Edit `games.json` to update the selection. The 6 entries with `previewOrder` form the initial view; the full collection is arranged by series.
 
 - **ACE COMBAT 7: SKIES UNKNOWN** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/502500/library_600x900.jpg); Steam App ID `502500`.
 - **ACE COMBAT 8: WINGS OF THEVE** — [Steam artwork](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2288340/a1fb5685d2c140309d5549af1ddc725a7114d889/library_capsule.jpg); Steam App ID `2288340`.

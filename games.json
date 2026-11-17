@@ -3,13 +3,13 @@
     {
       "title": "ACE COMBAT 7: SKIES UNKNOWN",
       "series": "ACE COMBAT",
-      "cover": "./assets/games/ace-combat-7-skies-unknown.webp",
-      "previewOrder": 4
+      "cover": "./assets/games/ace-combat-7-skies-unknown.webp"
     },
     {
       "title": "ACE COMBAT 8: WINGS OF THEVE",
       "series": "ACE COMBAT",
-      "cover": "./assets/games/ace-combat-8-wings-of-theve.webp"
+      "cover": "./assets/games/ace-combat-8-wings-of-theve.webp",
+      "previewOrder": 5
     },
     {
       "title": "ACE COMBAT ZERO: THE BELKAN WAR",
@@ -119,8 +119,7 @@
     {
       "title": "Command & Conquer: Red Alert 3",
       "series": "Command & Conquer",
-      "cover": "./assets/games/command-and-conquer-red-alert-3.webp",
-      "previewOrder": 3
+      "cover": "./assets/games/command-and-conquer-red-alert-3.webp"
     },
     {
       "title": "Command & Conquer: Red Alert 3 — Uprising",
@@ -145,8 +144,7 @@
     {
       "title": "Cyberpunk 2077",
       "series": "Cyberpunk",
-      "cover": "./assets/games/cyberpunk-2077.webp",
-      "previewOrder": 8
+      "cover": "./assets/games/cyberpunk-2077.webp"
     },
     {
       "title": "DARK SOULS III",
@@ -182,7 +180,7 @@
       "title": "Forza Horizon 5",
       "series": "Forza Horizon",
       "cover": "./assets/games/forza-horizon-5.webp",
-      "previewOrder": 5
+      "previewOrder": 4
     },
     {
       "title": "Forza Horizon 6",
@@ -232,8 +230,7 @@
     {
       "title": "Hatsune Miku: Project DIVA Mega Mix+",
       "series": "Hatsune Miku",
-      "cover": "./assets/games/hatsune-miku-project-diva-mega-mix.webp",
-      "previewOrder": 7
+      "cover": "./assets/games/hatsune-miku-project-diva-mega-mix.webp"
     },
     {
       "title": "Heroes of Might and Magic: Olden Era",
@@ -284,8 +281,7 @@
     {
       "title": "NBA 2K26",
       "series": "NBA 2K",
-      "cover": "./assets/games/nba-2k26.webp",
-      "previewOrder": 6
+      "cover": "./assets/games/nba-2k26.webp"
     },
     {
       "title": "Need for Speed Heat",
@@ -330,8 +326,7 @@
     {
       "title": "Portal 2",
       "series": "Portal",
-      "cover": "./assets/games/portal-2.webp",
-      "previewOrder": 11
+      "cover": "./assets/games/portal-2.webp"
     },
     {
       "title": "Tom Clancy's Rainbow Six Siege",
@@ -342,8 +337,7 @@
     {
       "title": "Red Dead Redemption 2",
       "series": "Red Dead Redemption",
-      "cover": "./assets/games/red-dead-redemption-2.webp",
-      "previewOrder": 9
+      "cover": "./assets/games/red-dead-redemption-2.webp"
     },
     {
       "title": "Resident Evil 2",
@@ -358,8 +352,7 @@
     {
       "title": "Resident Evil 4",
       "series": "Resident Evil",
-      "cover": "./assets/games/resident-evil-4.webp",
-      "previewOrder": 10
+      "cover": "./assets/games/resident-evil-4.webp"
     },
     {
       "title": "Resident Evil 7 biohazard",
@@ -440,7 +433,8 @@
     {
       "title": "Total War: WARHAMMER III",
       "series": "Total War",
-      "cover": "./assets/games/total-war-warhammer-iii.webp"
+      "cover": "./assets/games/total-war-warhammer-iii.webp",
+      "previewOrder": 3
     },
     {
       "title": "Warhammer 40,000: Space Marine",

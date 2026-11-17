@@ -42,7 +42,7 @@ function render() {
   grid.setAttribute('aria-busy', 'false');
   toggle.hidden = games.length <= visible.length && !expanded;
   toggle.setAttribute('aria-expanded', String(expanded));
-  toggle.textContent = expanded ? 'Show less' : `Show all ${games.length} games`;
+  toggle.textContent = expanded ? 'Show less' : 'Show more';
   state.className = 'sr-only';
   state.textContent = `Showing ${visible.length} of ${games.length} selected games.`;
 }
@@ -58,7 +58,7 @@ export function showGameInventory() {
   if (loading) return loading;
   loading = (async () => {
     try {
-      const response = await fetch('./games.json?v=20261117-inventory');
+      const response = await fetch('./games.json?v=20261117-six-games');
       if (!response.ok) throw new Error('Inventory unavailable');
       const data = await response.json();
       if (!Array.isArray(data.games) || !data.games.length) throw new Error('Inventory empty');

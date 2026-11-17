@@ -1,5 +1,5 @@
 import {fetchDotaStats} from './dota-api.js';
-import {showGameInventory} from './game-inventory.js?v=20261117-inventory';
+import {showGameInventory} from './game-inventory.js?v=20261117-six-games';
 
 const $ = (id) => document.getElementById(id);
 const ACCOUNT_ID = '889388443';
